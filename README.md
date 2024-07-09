@@ -1,6 +1,3 @@
----
-title: "Daniel Jimenez"
----
 
 ![Banner](./assets/banner_pic.png)
 

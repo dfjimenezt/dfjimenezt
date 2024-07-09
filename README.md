@@ -1,5 +1,3 @@
-![Banner](./assets/banner_pic.png)
-
 [![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dfjimenezt)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dfjimenezt)
 <a aria-label="Chat on WhatsApp" href="https://wa.me/34693396247"><img alt="Chat on WhatsApp" height="28" src="./assets/WhatsAppButtonGreenSmall.svg" />
 <a />

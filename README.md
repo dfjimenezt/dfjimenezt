@@ -1,5 +1,5 @@
 ---
-title: Daniel Jimenez
+title: Daniel
 intro: 'Welcome to my site'
 ---
 

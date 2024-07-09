@@ -1,7 +1,6 @@
 ---
-
 title: Daniel Jimenez
-
+intro: 'Welcome to my site'
 ---
 
 ![Banner](./assets/banner_pic.png)

@@ -21,7 +21,7 @@ I share insights from a variety of angles—courses, personal thoughts, experime
 
 # Latest Notes
 
-* [Creating an Personalized E-Learning Platform with AI](./notes/ai/courses/generative-ai-beginners.md)
+* [Notes on Microsoft's Generative AI For Beginners](./notes/ai/courses/generative-ai-beginners.md)
 * [Create a Simple Game With ChatGPT](./notes/ai/experiments/simple-game)
 * [AI Resources](./notes/ai/resources)
   

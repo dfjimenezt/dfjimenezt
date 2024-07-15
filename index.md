@@ -15,13 +15,20 @@ During the last decade I have had the pleasure to witness how the technology has
 
 # The Convergence Point; my point of view on DeepTech and Entrepreneurship
 
-DeepTech is a curious and evolving term, it refers to the latest trends in technology it is crafted at the heart of investigation centers and Universities, which reminds me when I was in my Univerity days studying Mechatronics at the National Univeristy in Colombia which actually nobody knew what it was and maybe I wasn´t sure what it was in my first days. We are now 14 years from that moment and Robotics is becoming a trend, there is no car sold without an infotainment, even Autonomous vehicles are a thing you can get.
+DeepTech represents the frontier of innovation, rooted in profound scientific and engineering breakthroughs. From AI to biotechnology, these technologies have the potential to address some of the world’s most pressing challenges. Entrepreneurship in the DeepTech sector is about more than just business; it’s about leveraging these cutting-edge advancements to create solutions that can drive societal progress and sustainable growth. By focusing on the convergence of technology, society, and business, we can harness the power of DeepTech to build a better future. This intersection is where true innovation happens, providing opportunities to not only advance industries but also to make a meaningful impact on the world. Embracing this convergence point is crucial for leading in an ever-evolving landscape, where technology and entrepreneurship work hand in hand to solve complex problems and create lasting value.
 
 > Innovation often looks like the tiny stand in the corner of a tradeshow
 
-If we were in XV century we would call DeepTech to what Davinci was working on, as per 2024 DeepTech is categorized into 10 topics.
+I share insights from a variety of angles—courses, personal thoughts, experiments, and entrepreneurial ventures. Each note is designed to offer a holistic understanding of key DeepTech categories. Through detailed course summaries, reflective thoughts, documented experiments, and entrepreneurial experiences, these notes provide a comprehensive view of how these technologies are advancing and the innovative opportunities they present. Join me in exploring the transformative potential of DeepTech.
 
-* Artificial Intelligence (AI) and Machine Learning (ML),
+
+# Latest Notes
+
+* [Creating an Personalized E-Learning Platform with AI](./notes/courses/generative-ai-beginners.md)
+
+# Categories
+
+* [Artificial Intelligence (AI) and Machine Learning (ML)](./notes/ai/),
 * Biotechnology and Life Sciences,
 * Advanced Materials,
 * Quantum Computing,
@@ -32,13 +39,5 @@ If we were in XV century we would call DeepTech to what Davinci was working on, 
 * Blockchain and Distributed Ledger Technology,
 * Neuroscience and Neurotechnology.
 
-To my point of view any tech won't do the job itself, I have seen, worked, and deployed multiple projects that are going straight to the shelve even when they are amazing, they create a new technology or open opportunities to people.
-
-In the other hand I have seen amazing people solving a problem with what I call ***duct-tape technology*** this is mind blowing, they are often called Entrepreneurs as you may guess.
-
-Putting all together the convergence point I want to talk about is not merging all of these technologies together, it is about how using Entrepreneurship mindset, methodologies and DeepTech to solve problems.
  
 
-# Latest Notes
-
-[Creating an Personalized E-Learning Platform with AI](./notes/microsoft/generative-ai-beginners.md)

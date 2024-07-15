@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
+
 # Notes
 
 ![notes](../assets/img/under_construction.webp)

@@ -25,6 +25,8 @@ I share insights from a variety of angles—courses, personal thoughts, experime
 
 # Categories
 
+
+## Tech
 * [Artificial Intelligence (AI) and Machine Learning (ML)](./notes/ai/),
 * Biotechnology and Life Sciences,
 * Advanced Materials,
@@ -35,6 +37,9 @@ I share insights from a variety of angles—courses, personal thoughts, experime
 * Energy and Environmental Technology,
 * Blockchain and Distributed Ledger Technology,
 * Neuroscience and Neurotechnology.
+  
 
- 
-
+## Business
+* Entrepreneurship 
+* XTech
+  

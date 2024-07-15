@@ -7,3 +7,5 @@ tags: [ai]
 [Experiments](./experiments)
 
 [Resources](./resources)
+
+[Courses](./courses/generative-ai-beginners)

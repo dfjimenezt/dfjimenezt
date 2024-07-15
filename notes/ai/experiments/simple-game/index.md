@@ -8,7 +8,7 @@ tags: [ai,game,chatgpt]
 
 ```
 act like a senior javascript web videogame.
-Creaate an engaging, simple,flappy bird style, don't use any external asset.
+Create an engaging, simple,flappy bird style, don't use any external asset.
 Add an start button.
 ```
 

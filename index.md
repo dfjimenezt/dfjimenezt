@@ -19,7 +19,7 @@ DeepTech represents the frontier of innovation, rooted in profound scientific an
 
 > Innovation often looks like the tiny stand in the corner of a tradeshow
 
-I share insights from a variety of angles—courses, personal thoughts, experiments, and entrepreneurial ventures. Each note is designed to offer a holistic understanding of key DeepTech categories. Through detailed course summaries, reflective thoughts, documented experiments, and entrepreneurial experiences, these notes provide a comprehensive view of how these technologies are advancing and the innovative opportunities they present. Join me in exploring the transformative potential of DeepTech.
+I share insights from a variety of angles—courses, personal thoughts, experiments, and entrepreneurial ventures. Each note is designed to offer a holistic understanding of key DeepTech categories. Detailed course summaries, reflective thoughts, documented experiments, and entrepreneurial experiences, these notes provide a comprehensive view of how these technologies are advancing and the innovative opportunities they present.
 
 
 # Latest Notes

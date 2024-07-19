@@ -41,4 +41,3 @@ It can also be using techniques like Retrieval Augmented Generation (RAG) to hav
 - [Basics](./basics)
 - [Experiments](./experiments)
 - [Resources](./resources)
-- [Courses](./courses/generative-ai-beginners)

@@ -1,34 +1,8 @@
 ---
-title: Notes on Microsoft's Generative AI For Beginners
+title: Tokenization
 categories: ai
-tags: [ai,azure,corses]
+tags: [ai]
 ---
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-green)](https://mit-license.org/)
-
-The Microsoft team has released an 18-lesson course, [Generative AI for Beginners Version 2](https://github.com/microsoft/generative-ai-for-beginners) 2, as part of their Generative AI Learning Collection. 
-
-I decided to go through these lessons and share my notes.
-
-*Examples are taken from the course.*
-
-
-# Course Setup
-This course uses Azure AI Studio. Before proceeding, ensure you have access to it. You can either use a pay-as-you-go subscription, request a trial, or apply to be accepted into the Microsoft for Startups program.
-
-**Azure AI Studio**
-Is a Cloud Platform designed for developers to build generative AI applications and manage the whole development lifecycle - from experimentation to evaluation - by combining all Azure AI services into a single hub with an handy GUI.
-
-# Introduction to AI
-It's important to note that artificial intelligence (AI) is a broader concept that has been around since the 1956. Currently, we are exploring Generative AI, which is the result of years of research and breakthroughs. Modern AI approaches are non-deterministic, working by translating text into a series of tokens and then predicting the next possible token in a sequence using statistics and a randomness factor known as temperature.
-
-## Tokenization
-Tokenization involves translating a series of words into numeric form, making it easier for the model to learn and work since it is a statistical model.
-
-## Assignment
-What can be created or improved with AI?
-
-# Exploring and Comparing Different Type of LLMs
 
 ## Foundation Models
 Foundation models are self-trained models that serve as a base for fine-tuning the models we use.
@@ -37,7 +11,10 @@ Foundation models are self-trained models that serve as a base for fine-tuning t
 > [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258?WT.mc_id=academic-105485-koreyst),
 > [Foundation Models](https://github.com/microsoft/generative-ai-for-beginners/blob/main/02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst#foundation-models-versus-llms)
 
-## Model Classification
+# Tokenization
+Tokenization involves translating a series of words into numeric form, making it easier for the model to learn and work since it is a statistical model.
+
+# Model Classification
 Models can be classified by their ***license, Output, Architecture,*** and ***Commercial Offering:***
 ### License
 #### OpenSource Models
@@ -77,10 +54,9 @@ These models are good at generating ouputs based on the context.
 
 #### Encoder / Decoder
 Think on having a *Encoder Model* feeding the *Decoder model*.
-
-> If you are somehow familiar with Control Theory thinking on Open / Close Loops with the models.
 * BART
 * T5
+> If you are somehow familiar with Control Theory thinking on Open / Close Loops with the models.
 
 ### Commercial Offering
 
@@ -97,8 +73,6 @@ Isolated models either as an OpenSource you can use, allowing companies to run l
 [How to deploy on Azure AI Studio](https://github.com/microsoft/generative-ai-for-beginners/blob/main/02-exploring-and-comparing-different-llms/README.md?WT.mc_id=academic-105485-koreyst#how-to-test-and-iterate-with-different-models-to-understand-performance-on-azure)
 
 Deployment Options:
-![LLMs deployment](./images/Deploy.png)
+![LLMs deployment](../images/Deploy.png)
 
-Img taken from the course, original source: [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms)
-
-# Using Gen AI responsibly
+Img taken from the course, original source: [Four Ways that Enterprises Deploy LLMs](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms)

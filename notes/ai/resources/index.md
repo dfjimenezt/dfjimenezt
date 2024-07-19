@@ -2,8 +2,13 @@ This comprehensive compilation of references provides the foundation for my deep
 
 
 # Communities
-[Hugging Face](https://huggingface.co)
+- [Hugging Face](https://huggingface.co)
+
+
+# Courses
+- [Generative AI for Beginners Version 2](https://github.com/microsoft/generative-ai-for-beginners)
 
 # Articles 
-[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258?WT.mc_id=academic-105485-koreyst)
-[Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms)
+- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258?WT.mc_id=academic-105485-koreyst)
+- [Four Ways that Enterprises Deploy LLMs | Fiddler AI Blog](https://www.fiddler.ai/blog/four-ways-that-enterprises-deploy-llms)
+- [Capturing the full value of generative ai in banking | Mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/capturing-the-full-value-of-generative-ai-in-banking)

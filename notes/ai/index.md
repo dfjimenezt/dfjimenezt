@@ -35,8 +35,8 @@ It can also be using techniques like Retrieval Augmented Generation (RAG) to hav
 >- **Evaluate model**. Working with LLMs can be challenging because we don’t always have control over the data the model was trained on. Regardless, we should always evaluate the model’s performance and outputs. It’s still important to measure the model’s accuracy, similarity, groundedness, and relevance of the output. This helps provide transparency and trust to stakeholders and users.
 
 
-[Azure AI Content Safety](https://learn.microsoft.com/azure/ai-services/content-safety/overview) can help detect harmful content and images via an API request.
-
+* [Azure AI Content Safety](https://learn.microsoft.com/azure/ai-services/content-safety/overview) can help detect harmful content and images via an API request.
+* [Generative AI for Beginners Version 2 - Lesson 03](https://github.com/microsoft/generative-ai-for-beginners/tree/main/03-using-generative-ai-responsibly)
 # Where to Go
 - [Basics](./basics)
 - [Experiments](./experiments)

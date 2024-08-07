@@ -15,7 +15,10 @@ It's important to note that artificial intelligence (AI) is a broader concept th
 # Using Gen AI responsibly
 > Everything we commit to must be taken with responsability looking for a greater benefit.
 
-`LLMs will halluciate` that's a fact and we cannot avoid but we can take responsible approaches to avoid harmful or biased content to be generated.
+**LLMs will halluciate** that's a fact and we cannot avoid but we can take responsible approaches to avoid harmful or biased content to be generated.
+
+# Prompt Engineering
+Prompt engineering and education are our primary tools for responsible AI use. By learning and teaching others how to craft prompts that elicit appropriate responses, and by consistently reading and verifying the model's output, we can enhance system safety and prevent biases or incorrect information from being propagated.
 
 ``` mermaid
 flowchart LR
